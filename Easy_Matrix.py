@@ -10,7 +10,7 @@
 #Connecting an existant node to a non-existant node will force creation of the nonexistant node, locally. If isBidirectional is Ture
 #Connecting an existant node to a non-existant node or connecting a non-existant node to an existant will ignore request to connect nodes. If isBidirectional is False
 #Request to connect a node to itself is ignored
-#Killing Nodes may not completely destrot all of its refrences
+#Killing Nodes may not completely destroy all of its refrences
 #### Warning, Documentation does not exist for this module, you silly goose ####
 
 ## Lisencing Notice ##
